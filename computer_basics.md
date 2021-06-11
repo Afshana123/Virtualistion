@@ -41,7 +41,7 @@ Network cards:
 VSAT - internet from satellite 
 
 ## What is a server?
-A server is a computer but it provides a service and this is where the security problems start.
+A server is a computer, but it provides a service and this is where the security problems start.
 
 # What is the difference between a router and a server?
 They are both computers but a router connects a network and a server provides a service.

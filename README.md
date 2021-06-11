@@ -31,7 +31,7 @@ Type 2: You have the hardware, os (the os in this case is windows), and the hype
 
 In type 2, you have the hypervisor working on the host os and the guest os. 
 
-What's in common between the two types is that the operating systems don't share anything between eachother. 
+What's in common between the two types is that the operating systems don't share anything between eachother?
 
 Which is better?
 
@@ -249,6 +249,7 @@ cloud deployment types:
 
 we would not be able to have cloud computing in its current form without virtualisation as technology. Cloud computing is not a technology but is a way of delivering sharing and renting services
 
+## Main Cloud Providers
 main three cloud providers and what are the services provided by each one of them:
 - AWS Amazon Web Services - leader in public cloud computing and is a major player in AI, database, machine learning and serverless deployments. 
   
